@@ -1,8 +1,8 @@
 # Read-File
 
-#Simple program with arguments
+# Simple program with arguments
 
-##Values:
+## Values:
 
 - -i Input file
 
